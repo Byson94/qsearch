@@ -17,8 +17,8 @@ def main():
     parser.add_argument(
         "-n", "--max-results",
         type=int,
-        default=1,
-        help="Number of results (default: 1)"
+        default=2,
+        help="Number of results (default: 2)"
     )
 
     parser.add_argument(
