@@ -3,5 +3,8 @@ venv/
 .venv/
 build/
 dist/
-qsearch-egg-info/
+main.build/
+main.dist/
+pkg/
+*.tar.zst
 *.spec

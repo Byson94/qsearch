@@ -1,0 +1,15 @@
+[project]
+name = "qsearch"
+version = "0.1.0"
+dependencies = [
+    "ddgs",
+    "rich",
+    "httpx",
+]
+
+[project.scripts]
+qsearch = "qsearch.main:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

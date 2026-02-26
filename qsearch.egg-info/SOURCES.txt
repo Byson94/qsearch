@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-qsearch.egg-info/PKG-INFO
-qsearch.egg-info/SOURCES.txt
-qsearch.egg-info/dependency_links.txt
-qsearch.egg-info/top_level.txt
