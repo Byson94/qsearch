@@ -8,3 +8,4 @@ main.dist/
 pkg/
 *.tar.zst
 *.spec
+*.pyz
