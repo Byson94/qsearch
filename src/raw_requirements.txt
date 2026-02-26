@@ -1,4 +1,3 @@
 ddgs
 rich
 httpx
-shiv
